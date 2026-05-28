@@ -1,18 +1,25 @@
 # AI Customer Support Intelligence Dashboard
 
 ## Project Overview
+Customer support teams often struggle to efficiently monitor ticket volumes, resolution performance, customer satisfaction and operational workload across multiple support channels. Traditional reporting methods make it difficult to identify performance bottlenecks, track customer experience trends, and support data-driven decision-making in real time.
 
-This project presents an AI-powered Customer Support Intelligence Dashboard built using Tableau and Python for data cleaning, EDA, and visualization.
+This project addresses these business challenges by developing an AI-powered Customer Support Intelligence Dashboard using Tableau and Python for data cleaning, exploratory data analysis (EDA), and visualization.
 
-The dashboard analyzes:
+The dashboard provides interactive analytics to help organizations:
 
-* Customer ticket activity
-* Resolution performance
-* Operational workload
-* Customer satisfaction trends
-* Ticket channel efficiency
+Monitor customer ticket activity
+Track resolution performance and operational efficiency
+Analyze customer satisfaction trends
+Identify workload distribution across support channels
+Support faster and data-driven operational decisions
 
-The goal is to provide actionable operational insights through interactive dashboards and advanced visual analytics.
+## Business Background
+
+The project is based on a fictional AI-powered customer support company that handles customer queries across multiple communication channels, including chat, email, phone, and social media. As ticket volumes increase, the company faces challenges in monitoring operational performance, maintaining customer satisfaction, and efficiently managing support workloads.
+
+To address these challenges, the AI Customer Support Intelligence Dashboard was developed to provide interactive analytics, operational insights, and performance monitoring through visually engaging dashboards. The solution helps stakeholders track ticket activity, resolution efficiency, customer satisfaction trends and support channel performance for improved decision-making.
+
+
 
 # Tools & Technologies
 
