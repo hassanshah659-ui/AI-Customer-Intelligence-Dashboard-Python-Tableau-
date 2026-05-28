@@ -41,13 +41,13 @@ The goal is to provide actionable operational insights through interactive dashb
 # Dashboard Screenshots
 
 ## Executive Dashboard
-
-
-## Operational Dashboard
-
-
+<img width="1554" height="823" alt="AI - CUSTOMER INTELLIGENCE - DASHBOARD" src="https://github.com/user-attachments/assets/48f42760-51e3-4fc4-be92-f2ca3caed11c" />
 
 ## Customer Experience Dashboard
+<img width="1538" height="813" alt="CUSTOMER ANALYSIS - DASHBOARD" src="https://github.com/user-attachments/assets/258afe52-3839-43f2-a1e6-bb86ab14fda5" />
+
+## Operational Dashboard
+<img width="1545" height="821" alt="OPERATIONAL ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/272718d1-864f-4612-8a41-00fc33ab4723" />
 
 
 # Key Insights
@@ -59,6 +59,6 @@ The goal is to provide actionable operational insights through interactive dashb
 
 
 # Author
-Hassan Riaz
+ Hassan Riaz
 
 Hassan Riaz
