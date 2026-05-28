@@ -1,0 +1,2 @@
+# AI-Customer-Intelligence-Dashboard-Python-Tableau-
+This project presents an AI-powered Customer Support Intelligence Dashboard built using Tableau and Python for data cleaning, EDA, and visualization. The dashboard analyzes ticket activity, resolution performance, operational workload, customer satisfaction trends, and channel efficiency to deliver actionable insights through interactive dashboards
