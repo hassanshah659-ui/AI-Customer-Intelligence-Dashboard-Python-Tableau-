@@ -15,7 +15,7 @@ Support faster and data-driven operational decisions
 
 ## Business Background
 
-The project is based on a fictional AI-powered customer support company that handles customer queries across multiple communication channels, including chat, email, phone, and social media. As ticket volumes increase, the company faces challenges in monitoring operational performance, maintaining customer satisfaction, and efficiently managing support workloads.
+The project is based on a modern Artificial Intelligence customer support company that handles customer queries across multiple communication channels, including chat, email, phone, and social media. As ticket volumes increase, the company faces challenges in monitoring operational performance, maintaining customer satisfaction, and efficiently managing support workloads.
 
 To address these challenges, the AI Customer Support Intelligence Dashboard was developed to provide interactive analytics, operational insights, and performance monitoring through visually engaging dashboards. The solution helps stakeholders track ticket activity, resolution efficiency, customer satisfaction trends and support channel performance for improved decision-making.
 
